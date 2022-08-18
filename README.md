@@ -10,4 +10,5 @@ The reporsitory contains two scripts:
   - Data processing: Extract, transform and load preprocessed data for using training a classifier
   - Classifier: Training and validation of a neural network to classify if EEG data corresponds to a lose (0) or win (1) event
 
+Sensor data and numpy files can be made available upon request.
 For more information about this repository, please contact Andy Guevara (author).
