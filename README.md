@@ -8,5 +8,5 @@ The study consisted in recording brain activity (through EEG) after participants
 
 The reporsitory contains a single notebook: [Notebook](./EEG_ML.ipynb)
 
-Sensor data and numpy files can be made available upon request.
+Sensor data can be made available upon request.
 For more information about this repository, please contact Andy Guevara (author).
